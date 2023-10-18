@@ -26,3 +26,13 @@ This game is about Rogue Isle. The game is centered around Captain William Black
 <strong>IDE : </strong>   Microsoft Visual Studio 2013 Professional
 
 <strong>Platform : </strong> Windows 64bit
+
+# Disclaimer
+
+<strong>
+  
+None of the resources which are used in this project are my creations, nor I claim to own any these resources.
+
+The purpose of this project was to understand logics, solving problems, working with a team .
+
+</strong>
